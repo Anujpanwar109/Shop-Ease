@@ -14,7 +14,7 @@
 
 .container {
   min-height: 100vh;
-  max-width: 250vh;
+  min-width: 100vh;
   background-color: var(--background-color);
 }
 .main-content {
